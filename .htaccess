@@ -1,5 +1,4 @@
-SetEnv MAGE_RUN_CODE urbangloss
-SetEnv MAGE_RUN_TYPE website
+
 
 #<If "req('Host') != 'staging.happitude.se'">
 #    AuthType Basic
